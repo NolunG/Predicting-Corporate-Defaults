@@ -10,7 +10,11 @@ We collected multiple variables on the performance of all the firms in the COMPU
 Various fundamental variables (ratios), market variables, distance to default parameters and macroeconomic variables are taken as features. Multiple models are run, checking the ffectiveness of each variable for each model.
 The models include 
 Logistic Regression 
+
 Ridge and LASSO  Regression
+
 K Nearest Neighbours 
+
 Random Forest and Survival Random Forest 
+
 Gradient Boosted Trees and Artificial Neural Networks.  
